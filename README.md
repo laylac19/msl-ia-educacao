@@ -1,6 +1,6 @@
 # Planilhas dos Mapeamentos Sistemáticos da Literatura – Arquitetura Pedagógica com IA
 
-Este repositório contém os dados brutos e sintetizados dos dois MSLs que fundamentaram a arquitetura proposta no trabalho "[Título do seu trabalho]".
+Este repositório contém os dados brutos e sintetizados dos dois MSLs que fundamentaram a Arquitetura Pedagógica proposta no trabalho "Uma Arquitetura Pedagógica Baseada em Sistemas Multiagentes Educacionais Integrada ao Moodle".
 
 ## MSL 1 – Aplicações de IA na gestão educacional
 - Arquivo: `Mapeamento Sistemático de Sistemas Inteligentes de Aprendizagem Baseados em IA Generativa.xlsx`
